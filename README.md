@@ -8,7 +8,16 @@
   <img alt="License" src="https://custom-icon-badges.demolab.com/github/license/slashedzer0/nobara-dotfiles?style=for-the-badge&logo=law&logoColor=white">
 </p>
 
-## 🌸 Gallery
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
+⚠️ Check out my <a href="https://github.com/slashedzer0/nobara-dotfiles/edit/catppuccin">new dotfiles</a> with Catppuccin color scheme ;)  
+</h3>
+
+&nbsp;
+
+&nbsp;
+
+### 🌸 Gallery
 
 ![float-1.png](gallery/float-1.png)
 
@@ -18,7 +27,9 @@
 
 ![float-code.png](gallery/float-code.png)
 
-## ℹ️ Important Notes
+&nbsp;
+
+### ℹ️ Important Notes
 
 - The rice is done on GNOME v42.x and probably will not work on older version. Some of the extensions are comes pre-installed (*) from Nobara 36, which is the OS I use.
 - Kindly check the [gallery](https://github.com/slashedzer0/nobara-dotfiles/tree/main/gallery) for more screenshots (including old ones).
@@ -40,21 +51,27 @@ dconf load /org/gnome/shell/extensions/ < extensions-latest.conf
 - The top panel is based on [Tokyo Night GTK](https://www.gnome-look.org/p/1681470). I simply modified some lines in `gnome-shell.css` for little improvements.
 - I also modified the neofetch config from [neofetch-themes](https://github.com/chick2d/neofetch-themes/blob/main/normal/idlifetch.conf).
 
-## 👾 Terminal Setup
+&nbsp;
+
+### 👾 Terminal Setup
 
 - Emulator: [kitty](https://github.com/kovidgoyal/kitty)
 - Shell: [zsh](https://github.com/zsh-users/zsh)
 - Framework: [Zinit](https://github.com/zdharma-continuum/zinit)
 - Prompt: [common](https://github.com/jackharrisonsherlock/common)
 
-## 🎨 Desktop Setup
+&nbsp;
+
+### 🎨 Desktop Setup
 
 - Theme: [Tokyo Night GTK](https://github.com/Fausto-Korpsvart/Tokyo-Night-GTK-Theme) (dark/borderless)
 - Icons: [WhiteSur](https://github.com/vinceliuice/WhiteSur-icon-theme) (bold)
 - Fonts: [SF Pro Display](https://github.com/sahibjotsaggu/San-Francisco-Pro-Fonts), [Iosevka NF](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Iosevka)
 - Cursor: [macOS Monterey](https://github.com/ful1e5/apple_cursor)
 
-## 🧩 Extensions
+&nbsp;
+
+### 🧩 Extensions
 
 - [User Themes](https://extensions.gnome.org/extension/19/user-themes/)
 - [Dask to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/)*
@@ -74,7 +91,9 @@ dconf load /org/gnome/shell/extensions/ < extensions-latest.conf
 - [Compiz alike magic lamp effect](https://extensions.gnome.org/extension/3740/compiz-alike-magic-lamp-effect/)
 - [Vitals](https://extensions.gnome.org/extension/1460/vitals/)
 
-## ⚡ Terminal Apps
+&nbsp;
+
+### ⚡ Terminal Apps
 
 - [neofetch](https://github.com/dylanaraps/neofetch) - fetch system info
 - [cava](https://github.com/karlstav/cava) - audio visualizer
@@ -86,14 +105,18 @@ dconf load /org/gnome/shell/extensions/ < extensions-latest.conf
 - [taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - task management
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - youtube-dl but cooler
 
-## 💫 Credits
+&nbsp;
+
+### 💫 Credits
 
 - Fausto-Korpsvart
 - Chick2D / IdliDev
 - Gogh-Co
 - Wallhaven
 
-## 🍬 More…
+&nbsp;
+
+### 🍬 More…
 
 - [Tokyo Night for VS Code](https://github.com/enkia/tokyo-night-vscode-theme)
 - [Tokyo Night for SDDM](https://github.com/rototrash/tokyo-night-sddm)
@@ -104,9 +127,8 @@ dconf load /org/gnome/shell/extensions/ < extensions-latest.conf
 - [ImageGoWild](https://ign.schrodinger-hat.it/color-schemes)
 - [Gogh](https://github.com/Gogh-Co/Gogh)
 
----
+&nbsp;
 
-<p align="center">
-  <img alt="" src="https://forthebadge.com/images/badges/made-with-crayons.svg" />
-  <img alt="" src="https://forthebadge.com/images/badges/uses-brains.svg" />
-</p>
+<h2 align="center"> </h2>
+<p align="center"><img src="https://forthebadge.com/images/badges/built-with-swag.svg"/></p>
+
