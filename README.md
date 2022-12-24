@@ -8,10 +8,10 @@
   <img alt="License" src="https://custom-icon-badges.demolab.com/github/license/slashedzer0/nobara-dotfiles?style=for-the-badge&logo=law&logoColor=white">
 </p>
 
-<h3 align="center">
+<h4 align="center">
 <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
-⚠️ Check out my <a href="https://github.com/slashedzer0/nobara-dotfiles/edit/catppuccin">new dotfiles</a> with Catppuccin color scheme ;)  
-</h3>
+⚠️ Check out my <a href="https://github.com/slashedzer0/nobara-dotfiles/tree/catppuccin">new dotfiles</a> with Catppuccin color scheme ;)  
+</h4>
 
 &nbsp;
 
