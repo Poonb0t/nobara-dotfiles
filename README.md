@@ -10,7 +10,7 @@
 
 <h4 align="center">
 <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
-⚠️ Check out my <a href="https://github.com/slashedzer0/nobara-dotfiles/tree/catppuccin">new dotfiles</a> with Catppuccin color scheme ;)  
+⚠️ You may want to check out the <a href="https://github.com/slashedzer0/nobara-dotfiles/tree/catppuccin">other branch</a> with Catppuccin color scheme ;)
 </h4>
 
 &nbsp;
@@ -131,4 +131,3 @@ dconf load /org/gnome/shell/extensions/ < extensions-latest.conf
 
 <h2 align="center"> </h2>
 <p align="center"><img src="https://forthebadge.com/images/badges/built-with-swag.svg"/></p>
-
